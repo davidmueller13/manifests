@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="davidmueller13/vendor_samsung_l03lte_nougat" path="vendor/samsung/lt03lte" remote="github" />
+  <project name="davidmueller13/device_lt03lte_nougat" path="device/samsung/lt03lte" remote="github" />
+  <project name="davidmueller13/vendor_samsung_msm8974-common" path="vendor/samsung/msm8974-common" remote="github" />
+  <project name="davidmueller13/msm8974-common-fork" path="device/samsung/msm8974-common" remote="github" />
+  <project name="davidmueller13/kernel_lt03lte" path="kernel/samsung/lt03lte" remote="github" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" />
+</manifest>
